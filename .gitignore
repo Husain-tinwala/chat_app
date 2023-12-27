@@ -1,0 +1,12 @@
+.vscode/
+*.log
+*.pot
+*.pyc
+__pycache__/
+__pycache__
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/s
+media/
+migrations/
+venv
